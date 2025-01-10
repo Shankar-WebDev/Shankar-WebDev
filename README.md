@@ -1,5 +1,5 @@
 
-![Shankar](image/Shankar.png)
+![Shankar](image/shankar.png)
 
 # 💻 Tech Stack:
 
