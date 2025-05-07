@@ -46,8 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-WebDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 30%;"/>
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Shankar-WebDev&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
