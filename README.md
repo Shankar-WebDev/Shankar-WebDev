@@ -1,5 +1,5 @@
-
-![Shankar](image/shankar.png)
+<h3>Hi, I am Shankar</h3>
+<!--![Shankar](image/shankar.png)-->
 
 # 💻 Tech Stack:
 
