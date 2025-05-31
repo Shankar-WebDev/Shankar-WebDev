@@ -1,4 +1,4 @@
-<h3>Hi, I am Shankar</h3>
+# 🖐🏻 Hi, I am Shankar
 <!--![Shankar](image/shankar.png)-->
 
 # 💻 Tech Stack:
