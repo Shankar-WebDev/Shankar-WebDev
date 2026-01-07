@@ -39,11 +39,11 @@
 ### Hardware & IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)  
 ---
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 <!-- <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shankar-WebDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 30%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar-WebDev&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 30%;"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-WebDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 30%;"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-WebDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 30%;"/>
 </div>
 
 
